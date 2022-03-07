@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bravos1)](https://github.com/anuraghazra/github-readme-stats&hide=contribs,prs)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bravos1&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **bravos1/bravos1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
